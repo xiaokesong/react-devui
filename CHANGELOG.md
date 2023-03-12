@@ -2,6 +2,35 @@
 
 All notable changes to this project will be documented in this file. See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [18.3.7](https://github.com/DevCloudFE/react-devui/compare/v18.3.6...v18.3.7) (2023-03-10)
+
+### Bug Fixes
+
+- fix gap not support in old browser ([4a39ad9](https://github.com/DevCloudFE/react-devui/commit/4a39ad9d0d08cdc89764bd1134df03e426d31239))
+- **platform:** set page to 1 when filter list ([45f5752](https://github.com/DevCloudFE/react-devui/commit/45f5752aa9586bed1117c0f8839b05d46c6adbe3))
+- **ui:** fix input no size in old browser ([f553aaf](https://github.com/DevCloudFE/react-devui/commit/f553aaf08062c14df932558c835e94b88fdcd42b))
+
+## [18.3.6](https://github.com/DevCloudFE/react-devui/compare/v18.3.5...v18.3.6) (2023-03-09)
+
+### Bug Fixes
+
+- fix inset not support in old browser ([539a954](https://github.com/DevCloudFE/react-devui/commit/539a954b9f596799d9203e557ede9eaa994f1db6))
+
+## [18.3.5](https://github.com/DevCloudFE/react-devui/compare/v18.3.4...v18.3.5) (2023-03-09)
+
+### Bug Fixes
+
+- **ui:** fix `ResizeObserver` miss borderBoxSize with some browsers ([13df709](https://github.com/DevCloudFE/react-devui/commit/13df7098a483bfe874799f835a747716c5459210))
+
+## [18.3.4](https://github.com/DevCloudFE/react-devui/compare/v18.3.3...v18.3.4) (2023-03-09)
+
+### Bug Fixes
+
+- **site:** safari doesn't support lookbehind ([12a418f](https://github.com/DevCloudFE/react-devui/commit/12a418f63f64c187a6bce4045920cb3ae2a65405))
+- **ui:** change focus after visible change ([02d4072](https://github.com/DevCloudFE/react-devui/commit/02d407206c230eb5f1f1bd7489dd2fe68420e5d0))
+- **ui:** close popup when tree-select selected ([adb5f33](https://github.com/DevCloudFE/react-devui/commit/adb5f33a2419b6bcbc72201fa9d6df2251385aad))
+- **ui:** fix styles ([2bf87b0](https://github.com/DevCloudFE/react-devui/commit/2bf87b0e7a3071f1a2a3349ae4c7c710e1f65bd1))
+
 ## [18.3.3](https://github.com/DevCloudFE/react-devui/compare/v18.3.2...v18.3.3) (2023-03-03)
 
 ### Bug Fixes
